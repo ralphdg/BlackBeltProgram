@@ -8,5 +8,5 @@ Sessions_Attended = {'sessions' : '1011,2344,3222,44322,555,6332,721,8789,99,101
 for key, value in Sessions_Attended.items():
     x = value.split(",")
 
-print(len(x))
+print("I have attended : ", len(x), "sessions")
     
