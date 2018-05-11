@@ -7,7 +7,6 @@ Sessions_Attended = {'sessions' : '1011,2344,3222,44322,555,6332,721,8789,99,101
 x = Sessions_Attended['sessions'] #using assignment
 x = x.split(",")
 
-
 #using for loop, multiple keys
 #y = 0
 #for key, value in Sessions_Attended.items(): 
